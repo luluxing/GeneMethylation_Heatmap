@@ -16,4 +16,4 @@ Drawing heatmaps based on the above counts.
 
 The example image:
 
-![alt tag](https://github.com/luluxing/GneMethylation_Heatmap/blob/master/example.png)
+![alt tag](https://github.com/luluxing/GeneMethylation_Heatmap/blob/master/example.png)
